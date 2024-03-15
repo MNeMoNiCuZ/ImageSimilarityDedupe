@@ -1,0 +1,2 @@
+They can be in the root level, or in a sub-folder.
+You can also include caption files (.txt), they will also be copied to the output folder for any remaining images.

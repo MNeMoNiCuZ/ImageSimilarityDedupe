@@ -1,0 +1,6 @@
+1. Create a VENV
+2. Run `pip install -r requirement.stxt
+3. Manually install Pytorch, follow instructions: https://pytorch.org/
+4. Place dataset in the Input-folder. In root or subfolders is fine. It can include caption files.
+5. Tweak configuration in dedupe.py. Threshold need to be tweaked to your preferences.
+6. Run `py dedupe.py`
